@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+}
+
+.bg-gray-900 {
+  background-color: #121826;
+}
+
+.text-white {
+  color: white;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.inline {
+  display: inline;
+}
+
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
