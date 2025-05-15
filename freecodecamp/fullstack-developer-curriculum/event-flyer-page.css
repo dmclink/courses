@@ -1,0 +1,16 @@
+:root {
+  --PADDING: 50px;
+}
+
+body {
+  padding: var(--PADDING) 0;
+  margin: 0 auto;
+  width: 100vw;
+  height: 500px;
+  min-height: calc(100vh - var(--PADDING) * 2);
+}
+
+section,
+hr {
+  width: 75%;
+}
